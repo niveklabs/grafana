@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    grafana = ">= 1.4.0"
+    grafana = ">= 1.5.0"
   }
 }
 

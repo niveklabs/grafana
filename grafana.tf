@@ -1,5 +1,5 @@
 provider "grafana" {
-  version = "1.4.0"
+  version = "1.5.0"
 
   # auth - (required) is a type of string
   auth = null
